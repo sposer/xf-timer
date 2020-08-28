@@ -1,0 +1,41 @@
+adrt.ADRTLogCatReader -> a.a:
+    android.content.Context context -> a
+    void <init>() -> <init>
+    void onContext(android.content.Context,java.lang.String) -> a
+    void run() -> run
+adrt.ADRTSender -> a.b:
+    android.content.Context context -> a
+    java.lang.String debuggerPackageName -> b
+    void onContext(android.content.Context,java.lang.String) -> a
+    void sendLogcatLines(java.lang.String[]) -> a
+top.heue.xftimer.MainActivity -> top.heue.xftimer.MainActivity:
+    long startTime -> a
+    java.lang.Boolean isStart -> b
+    android.view.WindowManager windowManager -> c
+    android.view.WindowManager$LayoutParams layoutParams -> d
+    android.widget.TextView txt -> e
+    android.os.Handler handler -> f
+    long access$L1000000() -> a
+    void access$S1000000(long) -> a
+    java.lang.Boolean access$L1000002() -> b
+    void access$S1000002(java.lang.Boolean) -> a
+    android.view.WindowManager access$L1000003() -> c
+    android.view.WindowManager$LayoutParams access$L1000004() -> d
+    android.widget.TextView access$L1000005() -> e
+    void onCreate(android.os.Bundle) -> onCreate
+    android.os.Handler access$L1000011() -> f
+    void <init>() -> <init>
+    void <clinit>() -> <clinit>
+top.heue.xftimer.MainActivity$100000000 -> top.heue.xftimer.a:
+    int x -> a
+    int y -> b
+    top.heue.xftimer.MainActivity this$0 -> c
+    void <init>(top.heue.xftimer.MainActivity) -> <init>
+    boolean onTouch(android.view.View,android.view.MotionEvent) -> onTouch
+top.heue.xftimer.MainActivity$100000001 -> top.heue.xftimer.b:
+    top.heue.xftimer.MainActivity this$0 -> a
+    void <init>(top.heue.xftimer.MainActivity) -> <init>
+    void onClick(android.view.View) -> onClick
+top.heue.xftimer.MainActivity$100000002 -> top.heue.xftimer.c:
+    void <init>() -> <init>
+    void handleMessage(android.os.Message) -> handleMessage

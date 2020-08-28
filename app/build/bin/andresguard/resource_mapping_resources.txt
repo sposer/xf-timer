@@ -1,0 +1,13 @@
+res path mapping:
+    res/drawable -> r/a
+    res/layout -> r/b
+
+
+res id mapping:
+    top.heue.xftimer.R.drawable.ic_launcher -> top.heue.xftimer.R.drawable.a
+    top.heue.xftimer.R.layout.activity_main -> top.heue.xftimer.R.layout.a
+    top.heue.xftimer.R.color.colorPrimary -> top.heue.xftimer.R.color.a
+    top.heue.xftimer.R.color.colorPrimaryDark -> top.heue.xftimer.R.color.b
+    top.heue.xftimer.R.color.colorAccent -> top.heue.xftimer.R.color.c
+    top.heue.xftimer.R.string.app_name -> top.heue.xftimer.R.string.a
+    top.heue.xftimer.R.style.AppTheme -> top.heue.xftimer.R.style.a

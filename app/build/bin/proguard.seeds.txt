@@ -1,0 +1,9 @@
+top.heue.xftimer.MainActivity
+top.heue.xftimer.MainActivity: MainActivity()
+top.heue.xftimer.R$color: int colorAccent
+top.heue.xftimer.R$color: int colorPrimary
+top.heue.xftimer.R$color: int colorPrimaryDark
+top.heue.xftimer.R$drawable: int ic_launcher
+top.heue.xftimer.R$layout: int activity_main
+top.heue.xftimer.R$string: int app_name
+top.heue.xftimer.R$style: int AppTheme
